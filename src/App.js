@@ -17,6 +17,7 @@ class App extends React.Component {
 
                         <img class="db ba b--black-10"
                             alt="linkedin link"
+                            style={{border: 0}}
                             src="https://i.gyazo.com/38b43a4765f23ffbfc50c129642f8e67.png"
                         />
                     </a>
