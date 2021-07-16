@@ -8,7 +8,7 @@ class App extends React.Component {
                 position: 'absolute', left: '50%', top: '50%',
                 transform: 'translate(-50%, -50%)'
             }}>
-                    <h1>hi there. under construction.</h1>
+                    <h1>hi there! under construction.</h1>
                     <a class="db center items-center justify-center mw5 tc black link dim"
                         title="Linkedin Link"
                         target="_blank"
